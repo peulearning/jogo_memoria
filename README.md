@@ -76,8 +76,8 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## 📌 Versão
 
-(0.1.0) - 26-01-2024 (Elaboração do Jogo)
-(1.1.1) - 04-02-2024 (Integrando algumas funcionalidades)
+(0.1.0) - 26-01-2024 (Elaboração do Jogo) <br>
+(1.1.1) - 04-02-2024 (Integrando algumas funcionalidades) <br>
 (1.1.2) - 04-02-2024 (Testes E Integração de Socket)
 
 ## ✒️ Autores
